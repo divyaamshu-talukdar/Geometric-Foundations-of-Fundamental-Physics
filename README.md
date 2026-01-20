@@ -12,7 +12,7 @@ European Physical Journal C (2026)
 **Purpose**: Quantum Field Theory on Kelvin Cell Lattice  
 **Key Results**: 
 - Demonstrates convergence of QFT on Kelvin lattice to continuum limit
-- Convergence exponent: -3.47 ± 0.09 (superior to standard lattices)
+- Convergence exponent: -2.802 (superior to standard lattices)
 - Verifies emergence of continuum physics from discrete geometry
 
 ### 2. GeometricFramework.py  
