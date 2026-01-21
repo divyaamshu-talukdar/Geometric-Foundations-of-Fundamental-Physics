@@ -699,14 +699,11 @@ def main():
         print(f"  This is {abs(results['exponent'])/2.0:.1f}x faster than theoretical expectation")
         print(f"  for cubic lattices (exponent -2.0)")
         
-        print(f"\n" + "="*80)
-        print("READY FOR PUBLICATION")
-        print("="*80)
-        
     except Exception as e:
         print(f"\nError: {e}")
         import traceback
         traceback.print_exc()
 
 if __name__ == "__main__":
+
     main()
